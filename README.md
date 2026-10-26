@@ -39,12 +39,12 @@ This project analyzes customer churn patterns using the Telco Customer Churn dat
 ## 📁 Project Files
 
 - `dashboard.png` — Dashboard preview.
-- `Customer_Retention_Churn.twbx` — Packaged Tableau workbook, if included.
+- `Task - 2 (Customer Retention & Churn Analysis).twbx` — Packaged Tableau workbook, if included.
 - `README.md` — Project documentation.
 
 ## 👨‍💻 Author
 
-Abhinav DAs
+Abhinav Das
 
 ## 📌 Note
 
