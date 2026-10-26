@@ -32,9 +32,9 @@ This project analyzes customer churn patterns using the Telco Customer Churn dat
 
 ## 🖥️ Dashboard
 
-[View the interactive dashboard on Tableau Public](ADD_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/Task-2CustomerRetentionChurnAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Customer Retention and Churn Dashboard](dashboard.png)
+![Customer Retention and Churn Dashboard](dashboard-screenshot.png)
 
 ## 📁 Project Files
 
