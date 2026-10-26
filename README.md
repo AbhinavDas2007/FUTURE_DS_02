@@ -44,7 +44,7 @@ This project analyzes customer churn patterns using the Telco Customer Churn dat
 
 ## 👨‍💻 Author
 
-Rahul
+Abhinav DAs
 
 ## 📌 Note
 
